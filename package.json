@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "테스트",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgim971/TestDiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgim971/TestDiscordBot/issues"
+  },
+  "homepage": "https://github.com/cgim971/TestDiscordBot#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "discord.js": "^12.5.3"
+  }
+}
